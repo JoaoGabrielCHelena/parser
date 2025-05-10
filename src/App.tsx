@@ -68,6 +68,7 @@ function App() {
         <Editor.input
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
+          placeholder="You can type here"
         />
         <div className="buttonRow">
           <Editor.button onClick={handleClick}>Update</Editor.button>

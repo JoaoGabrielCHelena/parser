@@ -18,7 +18,7 @@ function Output({ input }: { input: string }) {
 
   return (
     <div className={styles.output}>
-      <ErrorBoundary fallbackRender={(error, info) => <>{error}</>}>
+      <ErrorBoundary fallbackRender={(error) => <>{error}</>}>
         {renderSanitizedContent(input)}
       </ErrorBoundary>
     </div>
