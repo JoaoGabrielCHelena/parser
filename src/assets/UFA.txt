@@ -1,0 +1,48 @@
+<collapse>
+<collapseButton style='{"fontSize":"17px","color":"#1ae8ff"}'>//-- This page has been localized --\\</collapseButton>
+<collapseContent style='{"marginTop": "12px"}'>
+
+<table>
+
+<tr>
+<td style='{"paddingRight":"1ch"}'>Disclaimer(s):</td>
+<td>- Certain terms have been adapted to improve your experience.</td>
+</tr>
+
+<tr>
+<td></td>
+<td>- The images used are AI-generated</td>
+</tr>
+
+<tr>
+<td></td>
+<td>- Dates follow the Case calendar. Parenthesis display the Roman calendar dates.</td>
+</tr>
+
+</table>
+ 
+</collapseContent>
+</collapse>
+<br/>
+<aside position="right" center="true"><a href="https://res.cloudinary.com/dpkg4d6hx/image/upload/v1708743275/Flags/Archeana/FirstMilitaryRegencyOfArcheana.svg"><img src="https://res.cloudinary.com/dpkg4d6hx/image/upload/w_120,h_120/f_png/v1708743275/Flags/Archeana/FirstMilitaryRegencyOfArcheana.svg" /></a>
+<p style='{"textAlign":"center", "fontSize":"14px"}'>Flag and Logo of the<br/>
+United Forces of Archeana</p></aside>
+
+<p>The United Forces of Archeana (UFA) are formed by the Army, Navy, and Airforce of Archeana. The organisation, which is independent, acts in close conjunction with the government of the Republic of Archeana, serving as its primary military force. The UFA's main function is to safeguard the well-being of the people of Archeana and their society. According to the constitution of the Republic of Archeana, "the United Forces of Archeana shall cooperate with the republican government to preserve the safety and security of the Archean people and society." As such, the UFA works alongside the Defense Sub-assembly, which is responsible for overseeing and coordinating military affairs.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1955667">Republic of Archeana</a></p>
+<br/>
+<p>The Army and Navy or Archeana were created by Leyne Estirae, "The Archeana", during her fight over the Case Kingdom and eventual conquest of the southern portion of the nation, around 1820. After her death, both organisations would cooperate with local nobles to create the Western Republic of Caseiotia. However, they remained independent entities, not subordinated to the newly formed state. Here, the Navy and Army of Archeana would begin to work closely with one another, de facto as one entity.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="#" style='{"color": "#aa0000"}'>Case Kingdom</a>, <a href="#" style='{"color": "#aa0000"}'>Case Kingdom's Collapse</a>, <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1891435">Nobility and Bourgeoisie</a>, <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1893406">Queendom of Archeana</a>, <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1861478">Western Republic of Caseiotia</a></p>
+<br/>
+<aside position="left" center="true"><img width="100%" src="https://res.cloudinary.com/dpkg4d6hx/image/upload/w_300,h_200/v1712027945/Flags/Paintings/The_fall_of_Vetulone_s5tub5.png" />
+<p style='{"marginTop": "12px","fontSize":"14px"}'>"The fall of Vetulone", 3564 (1910)</p>
+<p style='{"fontSize": "13px", "textAlign": "center"}'>Painting by Jalea Vaetia of tanks in<br />
+the capital of the Western Republic of Caseiotia</p></aside>
+
+<p>With the First Military Regency of Archeana, the organisations would become the State, which brought them further together. This would also mean that many of the public services expect from them would be part of the military as a whole, such as hospitals and schools. During Suami Ancrea's regency, the entire military structure was redesigned to accommodate the new situation it was in. Notable changes included the establishment of the Airforce of Archeana and the creation of the United Forces of Archeana, an organization led by the United Archeanan Forces Council comprising of top officials from each branch, the commanders.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1859923">First Military Regency of Archeana</a>, <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1898724#RegencialAssembly">Regencial Assembly</a></p>
+<br/>
+<p>With the end of the Regency, in 3608 (1954), the UFA would work with the Republic of Archeana as its military force. The organisation has maintained multiple public services, including mailing services, firefighting, and hospitals. The UFA's impact on archeana society has been described by Comina Sario in the following way:</p>
+<p style='{"fontSize":"90%","fontFamily":"Cambria"}'>"The UFA's commitment to preserving the safety and security of the Archean people and society has earned it the trust and respect of the nation. Its maintenance of various public services, including healthcare and civil defense, has further strengthened its bond with the people and reinforced its status as a valued and indispensable institution. The organization's steadfast service in protecting the nation's interests and upholding its values has secured its place as a beacon of hope and pride for the people of Archeana."</p>
+<br/>
+<p>Since the late years of the Queendom of Archeana there has existed a cultural push to enlist for the military as soon as possible. Currently, every person has to enlist for a minimum of 8 months of service somwhere between their 18 and 22 years of age, acceptance rates have been consistently under 50%. The UFA currently bolsters 320,000 active personnel, with an undisclosed amount of reservists which has been estimated to consist of around 500,000 persons.</p>

@@ -1,0 +1,19 @@
+.tooltip {
+  position: absolute;
+  left: 50%;
+  top: -150%;
+  translate: -50% 0;
+  display: none;
+  max-width: calc(100% + 150px);
+  width: max-content;
+  background: #1c1c1cdd;
+  padding: 4px;
+  box-shadow: 0px 0px 4px rgba(255,255,255,0.35);
+  &Wrapper {
+    display: inline;
+    position: relative;
+    &:hover .tooltip {
+      display: block;
+    }
+  }
+}

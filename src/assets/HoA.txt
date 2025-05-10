@@ -1,0 +1,93 @@
+<collapse>
+<collapseButton style='{"fontSize":"17px","color":"#1ae8ff"}'>//-- This page has been localized --\\</collapseButton>
+<collapseContent style='{"marginTop": "12px"}'>
+
+<table>
+
+<tr>
+<td style='{"paddingRight":"1ch"}'>Disclaimer(s):</td>
+<td>- Certain terms have been adapted to improve your experience.</td>
+</tr>
+
+<tr>
+<td></td>
+<td>- Dates follow the Case calendar. Parenthesis display the Roman calendar dates.</td>
+</tr>
+
+</table>
+ 
+</collapseContent>
+</collapse>
+<br/>
+<p>With the death of the Case monarch, in 3467 (1813), their two descendents could not decide who should rule the nation. Unhappy with this situation, one of the siblings, Leyne Estirae would unite with the nobles of West Case and revolt, with the intent of taking over the kingdom. The war would end at an empasse. In East Case, the discontent at the war would cause a popular revolt, which would create the Republic of Caseiotia. In West Case, Leyne, having given up on the idea of taking the throne, would would turn her forces against the nobles.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="#" style='{"color": "#aa0000"}'>Case Kingdom</a>, <a href="#" style='{"color": "#aa0000"}'>Case Kingdom's Collapse</a>, <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1891435">Nobility and Bourgeoisie</a></p>
+<br />
+
+<aside position='right' center='true'>
+<p style='{"fontSize":"18px"}'>Flags of Archeana</p>
+
+<collapse style='{"display":"flex","flexDirection":"column","alignItems":"center","gap":"14px","width":"100%"}'>
+<collapseButton style='{"marginTop":"12px","width":"100%"}' expanded="Close">Flag of the Queendom of Archeana</collapseButton>
+<collapseContent style='{"borderRadius":"12px","background":"#3f3f3f","padding":"6px","textAlign":"center","width":"100%"}'>
+<a href='https://res.cloudinary.com/dpkg4d6hx/image/upload/v1708743275/Flags/Archeana/QueendomOfArcheana.svg'><img src='https://res.cloudinary.com/dpkg4d6hx/image/upload/w_120,h_120/f_png/v1708743275/Flags/Archeana/QueendomOfArcheana.svg' /></a>
+<p>Flag of the<br/>
+Queendom of Archeana</p>
+</collapseContent>
+</collapse>
+
+<collapse style='{"display":"flex","flexDirection":"column","alignItems":"center","gap":"8px","width":"100%"}'>
+<collapseButton style='{"marginTop":"12px","width":"100%"}' expanded="Close">Flag of the<br/> Western Republic of Caseiotia</collapseButton>
+<collapseContent style='{"borderRadius":"12px","background":"#3f3f3f","padding":"6px","textAlign":"center","width":"100%"}'>
+<a href='https://res.cloudinary.com/dpkg4d6hx/image/upload/v1708743275/Flags/Archeana/XernerRepublicOfCaseiotia.svg'><img src='https://res.cloudinary.com/dpkg4d6hx/image/upload/w_200,h_120/f_png/v1708743275/Flags/Archeana/XernerRepublicOfCaseiotia.svg' /></a>
+<p>Flag of the<br/>
+Western Republic of Caseiotia</p>
+</collapseContent>
+</collapse>
+
+<collapse style='{"display":"flex","flexDirection":"column","alignItems":"center","gap":"8px","width":"100%"}'>
+<collapseButton style='{"marginTop":"12px","width":"100%"}' expanded="Close">Flag of the<br/> First Military Regency of Archeana</collapseButton>
+<collapseContent style='{"borderRadius":"12px","background":"#3f3f3f","padding":"6px","textAlign":"center","width":"100%"}'>
+<a href='https://res.cloudinary.com/dpkg4d6hx/image/upload/v1708743275/Flags/Archeana/FirstMilitaryRegencyOfArcheana.svg'><img src='https://res.cloudinary.com/dpkg4d6hx/image/upload/w_120,h_120/f_png/v1708743275/Flags/Archeana/FirstMilitaryRegencyOfArcheana.svg' /></a>
+<p>Flag of the<br/>
+First Military Regency of Archeana</p>
+</collapseContent>
+</collapse>
+
+<collapse style='{"display":"flex","flexDirection":"column","alignItems":"center","gap":"8px","width":"100%"}'>
+<collapseButton style='{"marginTop":"12px","width":"100%"}' expanded="Close">Flag of the Republic of Archeana</collapseButton>
+<collapseContent style='{"borderRadius":"12px","background":"#3f3f3f","padding":"6px","textAlign":"center","width":"100%"}'>
+<a href='https://res.cloudinary.com/dpkg4d6hx/image/upload/v1708743275/Flags/Archeana/RepublicOfArcheana.svg'><img src='https://res.cloudinary.com/dpkg4d6hx/image/upload/w_200,h_120/f_png/v1708743275/Flags/Archeana/RepublicOfArcheana.svg' /></a>
+<p>Flag of the<br/>
+Republic of Archeana</p>
+</collapseContent>
+</collapse>
+
+<collapse style='{"display":"flex","flexDirection":"column","alignItems":"center","gap":"8px","width":"100%"}'>
+<collapseButton style='{"marginTop":"12px","width":"100%"}' expanded="Close">Flag of the<br/> Second Military Regency of Archeana</collapseButton>
+<collapseContent style='{"borderRadius":"12px","background":"#3f3f3f","padding":"6px","textAlign":"center","width":"100%"}'>
+<a href='https://res.cloudinary.com/dpkg4d6hx/image/upload/v1708743275/Flags/Archeana/SecondMilitaryRegencyOfArcheana.svg'><img src='https://res.cloudinary.com/dpkg4d6hx/image/upload/w_200,h_120/f_png/v1708743275/Flags/Archeana/SecondMilitaryRegencyOfArcheana.svg' /></a>
+<p>Flag of the<br/>
+Second Military Regency of Archeana</p>
+</collapseContent>
+</collapse>
+</aside>
+
+<p>Slowly, a considerable amount would surrender their forces, some without any blood while others not so much. Nearing the end of her conquest, the last nobles would combine their forces under a confederacy, whose name has been lost, although after considerable fighting this would also be crushed by Leyne. Within less than a decade Leyne Estirae, "The Archeana", had complete control over all military forces in the land, declaring herself the ruler of it. The remaining nobility became a purely political class, serving as delegates to the Archeana's rule.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1893406">Queendom of Archeana</a></p>
+<br />
+
+<p>As the life of Leyne reached its end and she did not have an heir and, with her death, the nobility and high-ranking military members would form a "republic", as they feared that outright replacing the popular Leyne could cause a popular uprising. This would be called the Western Republic of Caseiotia, it would be plagued by the corruption, faulty systems of governance, and power clashes between the military and nobility. It would last for 12 years, having 7 presidents in total.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1861478">Western Republic of Caseiotia</a>, <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1891435">Nobility and Bourgeoisie</a></p>
+<br />
+
+<p>In 3562 (1908), the military would march into the capital, Vetulone, and take control of the nation, declaring it to be the Military Regency of Archeana. It would see 4 different leaders in its 46 years of existence, bringing massive social and economic changes to the nation.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1859923">First Military Regency of Archeana</a></p>
+<br />
+
+<p>A combination of the popular discontent at conflicts and the leader, Roseau Dorule, being much more willing to bend to the populace's demands, and having a want to remove the military from politics, made it so a council of popular representatives would be called to set up the Republic of Archeana. It would be a democratic multiparty presidential republic which managed to last 84 years. The multipartidary state would slowly fall to corruption.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1955667">Republic of Archeana</a></p>
+<br />
+
+<p>In 3692 (2038), the president Lanomi Luracse refused to leave office after losing an election, claiming it to have been fraudulent. This event would be used by the discontent military to take the nation once again. From the start, it would be characterized by growing militarism and revanchism with the <span style='{"color":"#8e8f72"}'>Republic of Caseiotia<span>.</p>
+<p style='{"marginLeft": "10px", "fontSize": "13px"}'>See: <a href="https://www.nationstates.net/nation=archeana/detail=factbook/id=1957477">Second Military Regency of Archeana</a></p>
+<div style='{"clear":"both"}'></div>

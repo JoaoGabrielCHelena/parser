@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+}
+
+.menu {
+  position: absolute;
+  top: calc(100% + 1ch);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #FFFFFF99;
+  box-shadow: 0px 0px 4px rgba(255,255,255,0.35);
+  border-radius: 4px;
+  gap: 8px;
+  background: #131421;
+  width: max-content;
+}
+
+.button {
+  display: block;
+  margin: 24px 0;
+  padding: 12px;
+  border-radius: 6px;
+  border: 2px solid white;
+  color: white;
+  background: transparent;
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #131421;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+button {
+  display: block;
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 1px solid white;
+  color: white;
+  background: transparent;
+  cursor: pointer;
+}

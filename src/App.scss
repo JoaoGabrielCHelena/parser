@@ -1,0 +1,20 @@
+.container {
+  min-height: 100vh;
+  max-width: 1240px;
+  padding: 80px;
+  margin: auto;
+}
+
+.buttonRow {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+
+.text {
+  max-width: 80ch;
+  margin: 0 auto;
+  h2 {
+    text-align: center;
+  }
+}
